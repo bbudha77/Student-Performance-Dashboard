@@ -20,7 +20,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 📊 Key Metrics (Top Visuals)
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/543436cee3b95fefa3cd62bf943f975a13506776/Screenshot%202025-03-15%20204511.png)
 
   - **Name-Based Filtering** – Allows selection of individual students.
 
