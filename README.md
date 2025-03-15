@@ -34,7 +34,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 2️⃣ Line Graph: Student Enrollment Trends
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/be3ed96c8ec1a097952c474ee9debd8ebe78900d/Screenshot%202025-03-15%20204617.png)
 
 - Displays year-wise student enrollment patterns.
 - Highlights peaks and drops in enrollment over time.
