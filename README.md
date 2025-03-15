@@ -7,12 +7,6 @@ This project analyzes **student performance data** using **Power BI** for data t
 
 ![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/cbfb366bd10a890afcbdc2c44a5d122bd9a82dfb/Screenshot%202025-03-15%20202920.png)
 
-## Data Cleaning & Transformation
-
-- **Power Query** was used to:
-  - Clean and transform raw data.
-  - Remove duplicate values.
-  - Ensure consistency in data types.
 
 ## Dashboard Highlights
 
