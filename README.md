@@ -49,7 +49,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 4️⃣ Bar Graph: Count of Student_ID by Payment Method
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/131b4b9acc08a0cae9903d4ed88a9ec4dfaf54ea/Screenshot%202025-03-15%20204643.png)
 
 - Compares student payment preferences (Credit Card, Cash, Online Payment, Bank Transfer).
 - Useful for financial planning and understanding student payment behavior.
