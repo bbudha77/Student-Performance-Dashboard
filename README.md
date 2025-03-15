@@ -56,7 +56,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 5️⃣ Enrollment Table: Student Enrollment by Date
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/6bc5d54370fd4297a87abb2f6a185bf11d7bfc16/Screenshot%202025-03-15%20204656.png)
 
 - Displays enrollment data over different time periods.
 - Helps institutions track admission trends efficiently.
