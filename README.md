@@ -42,7 +42,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 3️⃣ Student Distribution by Country & Field of Study
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/a6cbb7323ac4dad3964ddaf367c3a118745a426b/Screenshot%202025-03-15%20204632.png)
 
 - **Table Visualization** shows the number of students in different academic disciplines (Arts, Commerce, Engineering, Science).
 - Helps analyze student preference trends across various regions.
