@@ -27,7 +27,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 1️⃣ Pie Chart: Student Breakdown by Grade
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/66806c875885bb2b7fbd73e76a2a34bb7f9cf2e2/Screenshot%202025-03-15%20204601.png)
 
 - Represents the proportion of students achieving different grades.
 - Helps in understanding grade distribution across the student population.
